@@ -1,0 +1,9 @@
+div.about {
+  color: red;
+  font-style: italic;
+  font-size: 50px;
+}
+span.important {
+  font-weight: bold;
+  color:green;
+}
